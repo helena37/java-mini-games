@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d18289a-f1c5-4527-ad17-930194426533" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/loader/Funktion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loader/Funktion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loader/Winner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loader/Winner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabula/src/main/java/bg/softuni/tabula/announcement/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tabula/src/main/java/bg/softuni/tabula/announcement/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabula/src/main/java/bg/softuni/tabula/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tabula/src/main/java/bg/softuni/tabula/config/SecurityConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fxOV8BtTJqdWlUKQypLe96fDaY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="loader" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loader.Main" />
+      <module name="TicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d18289a-f1c5-4527-ad17-930194426533" name="Default Changelist" comment="" />
+      <created>1597156300065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597156300065</updated>
+      <workItem from="1597156301875" duration="3341000" />
+      <workItem from="1597429884169" duration="74000" />
+      <workItem from="1598001770261" duration="60000" />
+      <workItem from="1598001867920" duration="13681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1597222246806">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="443" y="87" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1597222246806" />
+    <state width="1219" height="162" key="GridCell.Tab.0.bottom" timestamp="1598019970040">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1598019970040" />
+    <state width="1219" height="162" key="GridCell.Tab.0.center" timestamp="1598019970039">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1598019970039" />
+    <state width="1219" height="162" key="GridCell.Tab.0.left" timestamp="1598019970038">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1598019970038" />
+    <state width="1219" height="162" key="GridCell.Tab.0.right" timestamp="1598019970040">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1598019970040" />
+    <state x="368" y="122" key="extract.method.dialog" timestamp="1598017243083">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="368" y="122" key="extract.method.dialog/0.23.1280.709@0.23.1280.709" timestamp="1598017243083" />
+  </component>
+</project>
