@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4e0c137-5440-4157-91d1-99cecc6a2df8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-2/game/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-2/game/GamePanel.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gXh2QJLissNjGo3GC4jBoBhYyl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="game" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.GameEngine" />
+      <module name="tic-tac-toe-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameEngine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e0c137-5440-4157-91d1-99cecc6a2df8" name="Default Changelist" comment="" />
+      <created>1598266639421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598266639421</updated>
+      <workItem from="1598266640902" duration="11099000" />
+      <workItem from="1598352622942" duration="7370000" />
+    </task>
+    <task id="LOCAL-00001" summary="Better Version of Tic Tac Toe game - first commit!">
+      <created>1598275702142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598275702142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit!">
+      <created>1598276060584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598276060584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit!">
+      <created>1598276662253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598276662253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit!">
+      <created>1598277461862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598277461862</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New GamePanel color!">
+      <created>1598277825981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598277825981</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some classes and methods added">
+      <created>1598359566649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598359566649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Better Version of Tic Tac Toe game - first commit!" />
+    <MESSAGE value="Initial commit!" />
+    <MESSAGE value="New GamePanel color!" />
+    <MESSAGE value="some classes and methods added" />
+    <option name="LAST_COMMIT_MESSAGE" value="some classes and methods added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1598357618839">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="443" y="98" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1598357618839" />
+    <state x="148" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598356293340">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="148" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.709@0.23.1280.709" timestamp="1598356293340" />
+    <state x="218" y="23" key="CommitChangelistDialog2" timestamp="1598359566402">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="218" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1598359566402" />
+    <state width="1219" height="162" key="GridCell.Tab.0.bottom" timestamp="1598362851336">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1598362851336" />
+    <state width="1219" height="162" key="GridCell.Tab.0.center" timestamp="1598362851335">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1598362851335" />
+    <state width="1219" height="162" key="GridCell.Tab.0.left" timestamp="1598362851334">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1598362851334" />
+    <state width="1219" height="162" key="GridCell.Tab.0.right" timestamp="1598362851335">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1219" height="162" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1598362851335" />
+    <state x="230" y="113" key="Vcs.Push.Dialog.v2" timestamp="1598359575611">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="230" y="113" key="Vcs.Push.Dialog.v2/0.23.1280.709@0.23.1280.709" timestamp="1598359575611" />
+  </component>
+</project>
